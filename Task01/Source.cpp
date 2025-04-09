@@ -69,8 +69,6 @@ int main()
         else
             window.draw(moon);
 
-        window.clear();
-        window.draw(shape);
         window.display();
     }
     return 0;
